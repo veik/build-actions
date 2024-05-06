@@ -70,7 +70,7 @@ export amlogic_model="s905d"
 export amlogic_kernel="5.10.01_6.1.01"
 export auto_kernel="true"
 export rootfs_size="2560"
-export kernel_usage="stable"
+export kernel_usage="dev"
 
 
 
